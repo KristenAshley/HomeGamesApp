@@ -1,0 +1,8 @@
+C:\Users\Kristen oddo\Desktop\HomeGames\HomeGames\bin\Debug\HomeGames.exe.config
+C:\Users\Kristen oddo\Desktop\HomeGames\HomeGames\bin\Debug\HomeGames.exe
+C:\Users\Kristen oddo\Desktop\HomeGames\HomeGames\bin\Debug\HomeGames.pdb
+C:\Users\Kristen oddo\Desktop\HomeGames\HomeGames\obj\Debug\HomeGames.exe
+C:\Users\Kristen oddo\Desktop\HomeGames\HomeGames\obj\Debug\HomeGames.pdb
+\\abhpebds02\e$\Dev\koddo\HP\C#Projects\Console.Apps\HomeGames\HomeGames\bin\Debug\HomeGames.exe.config
+\\abhpebds02\e$\Dev\koddo\HP\C#Projects\Console.Apps\HomeGames\HomeGames\obj\Debug\HomeGames.exe
+\\abhpebds02\e$\Dev\koddo\HP\C#Projects\Console.Apps\HomeGames\HomeGames\obj\Debug\HomeGames.pdb
